@@ -63,7 +63,6 @@ public class MappingApplication {
         addressList1.add(address2);
         student.setAddressList(addressList1);
 
-
         // Set courses
         List<Course> courses1 = new ArrayList<>();
         courses1.add(course1);
